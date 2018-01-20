@@ -3,20 +3,20 @@ Complete this simple survey in your text editor, in a new branch, and merge it b
 
 ## Your Name:
 
-*Replace with your answer*
+Caroline Mort
 
 ## What you like most about web design development
 
-*Replace with your answer*
+Learning a new language
 
 ## What you like least about web design and development
 
-*Replace with your answer*
+Not knowing what's going on
 
 ## How do you see yourself using web design and development skills in your career?
 
-*Replace with your answer*
+Building databases
 
 ## Your favorite (or most frequently used) website.
 
-*Replace with your answer*
+Twitter.Com
